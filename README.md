@@ -1,3 +1,20 @@
-# The landing page for Horiseon Management Company. The focus of this page is Horiseon's ability to manage search engine optimization, online reputation, and social media marketing. 
-!A screenshot of Horiseon's landing page. (https://github.com/JohnBanas/horiseon-landing-page/blob/master/assets/images/Horiseon%20Marketi.png)
+# Horiseon
+
+## Purpose
+Strategies for search engine optimization, social media marketing, and so much more! 
+
+## Built With
+* HTML
+* CSS
+
+## Website
 !A link to the landing page. (https://johnbanas.github.io/horiseon-landing-page/)
+
+### Web Page Image
+!A screenshot of Horiseon's landing page. (https://github.com/JohnBanas/horiseon-landing-page/blob/master/assets/images/Horiseon%20Marketi.png)
+
+## Contribution
+Made with :heart: by John Patrick Banas
+
+
+
