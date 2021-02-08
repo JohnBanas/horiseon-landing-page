@@ -100,7 +100,7 @@ p {
 }
 /* End of Content Section */
 
-/* Beginning of Benefits Section*/
+/* Beginning of <aside> Benefits Section*/
 
 .benefits {
     margin-right: 20px;
@@ -131,6 +131,7 @@ p {
 /* End of Benefits Section */
 
 /* Begin Footer */
+
 footer {
     padding: 30px;
     clear: both;
