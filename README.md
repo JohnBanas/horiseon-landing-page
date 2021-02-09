@@ -9,7 +9,7 @@ Strategies for search engine optimization, social media marketing, and so much m
 
 ## Website
 
-![Horizon's website ](https://johnbanas.github.io/horiseon-landing-page/)
+(https://johnbanas.github.io/horiseon-landing-page/)
 
 ### Web Page Image
 ![Horiseon's landing page static](https://github.com/JohnBanas/horiseon-landing-page/blob/master/assets/images/Horiseon%20Marketi.png)
